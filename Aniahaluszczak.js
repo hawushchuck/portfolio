@@ -18,7 +18,7 @@ const projectDetails = {
     3: {
       title: "Open Call",
       description: "I designed an Open Call poster for Simbioze 2.0, an outdoor plein air event held in July 2025 in Skujene, Latvia. I created an animation from the poster to make it more interesting on Instagram stories.",
-      images: ["images/2-3 Large.jpeg", "images/open call final Large.jpeg","images/Sequence01-ezgif.com-resize.gif","images/62FFC0EE-8332-45F8-8079-8668349B1FAF. Large.jpeg"]
+      images: ["images/2-3 Large.jpeg", "images/open call final Large.jpeg","images/Sequence01-ezgif.com-resize.gif","images/62FFC0EE-8332-45F8-8079-8668349B1FAF Large.jpeg"]
     },
     4: {
       title: "Tu i Tam",
@@ -78,7 +78,7 @@ const projectDetails = {
      13: {
       title: "ESE London",
       description: "ESE is a private business school in London and across Europe. I designed digital brochures, edited interviews, Photos and other media for the school.",
-      images: ["images/Gapyearprogramme .jpeg","images//Gapyearprogramme3 Large.png","images/Gapyearprogramme5.jpeg","images/Gapyearprogramme6 .jpeg","images/ese-instaad_otz Large.jpeg","images/ese-instaad_story  .jpeg","images/XMAS_EVENTBRITE.jpeg"]
+      images: ["images/Gapyearprogramme  .jpeg","images/Gapyearprogramme3 Large.png","images/Gapyearprogramme5  .jpeg","images/Gapyearprogramme6 .jpeg","images/ese-instaad_otz Large.jpeg","images/ese-instaad_story  .jpeg","images/XMAS_EVENTBRITE.jpeg"]
     },
   };
 
