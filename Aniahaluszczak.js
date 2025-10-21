@@ -60,7 +60,7 @@ const projectDetails = {
     10: {
       title: "Photography",
       description: "Self initiated portraits inspired by mundaneity.",
-      images: ["images/P1050308 Large.jpeg","images/P1050339 Large.jpeg","images/014089010013 Large.jpeg","images/014089010014 Large.jpeg","images/IMG_8034 Large.jpeg","]
+      images: ["images/P1050308 Large.jpeg","images/P1050339 Large.jpeg","images/014089010013 Large.jpeg","images/014089010014 Large.jpeg","images/IMG_8034 Large.jpeg"]
     },
     11: {
       title: "Grove Website and Branding",
