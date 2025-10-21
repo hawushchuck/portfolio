@@ -58,10 +58,9 @@ const projectDetails = {
       images: ["images/1ofn Large.jpeg","images/2ofn Large.jpeg","images/3ofn Large.jpeg","images/4ofn Large.jpeg","images/5ofn Large.jpeg","images/6ofn Large.jpeg"]
     },
     10: {
-      title: "BCMA: You Must Be Joking Exhibition",
-      description: "BcmA is a non profit art space in Kreuzberg, Berlin that hosts exhibitions & performances featuring various international artists. As a Graphic Design Intern, I worked on the visual identity for several exhibitions from January - May 2024: You Must Be Joking, Digital Intimacy and Drop It.",
-      link: "https://bcma.gallery/you-must-be-joking/",
-      images: ["images/upDATES_stories Large.jpeg","images/YMBJ01-02 Large.jpeg","images/YMBJ PRESS RELEASE_Page_4 Large.jpeg","images/ymbj floorplan Large.jpeg","images/bcma guys-02 Medium.jpeg","images/bcma guys-01 Medium.jpeg","images/bcma guys-04 Medium.jpeg","images/bcma guys-03 Medium.jpeg"]
+      title: "Photography",
+      description: "Self initiated portraits inspired by mundaneity.",
+      images: ["images/P1050308 Large.jpeg","images/P1050339 Large.jpeg","images/014089010013 Large.jpeg","images/014089010014 Large.jpeg","images/IMG_8034 Large.jpeg","]
     },
     11: {
       title: "Grove Website and Branding",
