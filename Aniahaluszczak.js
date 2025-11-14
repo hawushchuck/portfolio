@@ -29,7 +29,6 @@ const projectDetails = {
     5: {
       title: "Digital Intimacy",
       description: "I designed social media assets and a teaser trailer for the Digital Intimacy exhibition, about the intersection of intimacy and AI at BcmA.",
-      link: "https://youtube.com/shorts/XqjDoP2n4NU?feature=share",
       link2:"https://bcma.gallery/mind-ai-ness-digital-intimacy/",
       images: ["images/background1.jpeg","images/social media-01.jpeg"],
       videos: [
