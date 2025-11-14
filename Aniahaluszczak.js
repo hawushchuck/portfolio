@@ -110,46 +110,43 @@ function renderVideo(video) {
   }
 
   return "";
-} 
+}
 
 
-  // Open modal on project click
-  document.querySelectorAll(".project-card").forEach(card => {
-    card.addEventListener("click", () => {
-      const projectId = card.getAttribute("data-project");
-      const project = projectDetails[projectId];
+// Open modal on project click
+document.querySelectorAll(".project-card").forEach(card => {
+  card.addEventListener("click", () => {
+    const projectId = card.getAttribute("data-project");
+    const project = projectDetails[projectId];
 
-      // Render multiple images
-      const imagesHTML = project.images.map(img => `
-        <img src="${img}" alt="${project.title}">
-      `).join("");
-      
-      const videosHTML = project.videos
-        ?.map((v) => renderVideo(v))
-        .join("") || "";
+    const imagesHTML = project.images.map(img => `
+      <img src="${img}" alt="${project.title}">
+    `).join("");
 
-      // ✅ Only add the link if it exists
-      const linkHTML = project.link 
+    const videosHTML = project.videos
+      ?.map(v => renderVideo(v))
+      .join("") || "";
+
+    const linkHTML = project.link 
       ? `<p><a href="${project.link}" target="_blank" class="modal-link">🔗 View Project</a></p>`
       : "";
-          
-      // ✅ Only add the link if it exists
-      const linkHTML2 = project.link2 
+
+    const linkHTML2 = project.link2 
       ? `<p><a href="${project.link2}" target="_blank" class="modal-link2">🔗 View Project</a></p>`
       : "";
 
-      modalBody.innerHTML = `
-        <h2>${project.title}</h2>
-        <p>${project.description}</p>
-        ${linkHTML}
-        ${linkHTML2}
-        ${videosHTML}
-        ${imagesHTML}
-      `;
+    modalBody.innerHTML = `
+      <h2>${project.title}</h2>
+      <p>${project.description}</p>
+      ${linkHTML}
+      ${linkHTML2}
+      ${videosHTML}
+      ${imagesHTML}
+    `;
 
-      modal.style.display = "flex";
-    });
+    modal.style.display = "flex";
   });
+});
 
   // Close modal
   closeBtn.addEventListener("click", () => {
