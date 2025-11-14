@@ -114,7 +114,7 @@ function renderVideo(video) {
       </video>`;
   }
 
-    if (video.type === "instagram") {
+  if (video.type === "instagram") {
   const id = video.url.split("/p/")[1]?.split("/")[0];
   return `
     <div class="video-wrapper">
