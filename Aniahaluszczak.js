@@ -7,13 +7,16 @@ document.addEventListener("DOMContentLoaded", () => {
 const projectDetails = {
     1: {
       title: "Simbioze 2.0: Riga",
-      description: "Simbioze 2.0 was an outdoor plein air held in July 2025, then exhibited in Riga November 2025. This shows the process of the exhibition poster design from printmaking to editing and incorporating found textures.",
+      description: "Simbioze 2.0 was an outdoor plein air held in July 2025, then exhibited in Riga November 2025. This shows the process of the exhibition poster design; combining printmaking featuring natural elements with editing and incorporating art from city streets. I was inspired by the idea of a portal to the previous workshops, as well as the circularity in art and nature. Check the links to read about the Exhibition. ",
+      link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
+      link2: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
       images: ["images/EXP-ezgif.com-optimize.gif","images/Screenshot 2025-10-05 at 20.26.50.jpeg","images/-93.jpeg","images/745098A1-5DCF-4320-82A7-DC2EC9429BC0.jpeg","images/draft1.jpeg","images/Envelope Large.jpeg"],
     },
     2: {
       title: "Simbioze 2.0: Skujene",
-      description: "Simbioze 2.0 was an outdoor plein air held in July 2025, This shows the process of the poster design, the logo and some event photos",
-      images: ["images/simbiozeposter.jpeg","images/IMG_8850.jpeg","images/OG Scan.jpeg","images/000042 2.jpeg","images/IMG_9316.jpg","images/P1050183 Large.jpeg", "images/sposter b_w.png", "images/INVITES ENG 2.jpeg","images/P1050144.jpeg","images/P1050250.jpeg","images/Screenshot 2025-09-19 at 16.23.20.jpeg",]
+      description: "Simbioze 2.0 was an outdoor plein air held in July 2025, This shows the process of the poster design, inspired by the idea of forging a path, and uses paper cut and collage. I designed the logo using an experimental process giving reference to Kefir - the name of the studio. I have included and some event photos for context.",
+      link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
+      images: ["images/simbiozeposter.jpeg","images/IMG_8850.jpeg","images/OG Scan.jpeg","images/000042 2.jpeg","images/P1050183 Large.jpeg", "images/sposter b_w.png", "images/INVITES ENG 2.jpeg","images/P1050144.jpeg","images/P1050250.jpeg","images/Screenshot 2025-09-19 at 16.23.20.jpeg",]
     },
     3: {
       title: "Open Call",
@@ -22,7 +25,7 @@ const projectDetails = {
     },
     4: {
       title: "Tu i Tam",
-      description: "Creative baking and design project for an exhibition opening about polish heritage. I made 50 bakes and a branded pop-up poster. ",
+      description: "Creative baking and design project for an exhibition opening about Polish heritage. I made 50 bakes and a branded pop-up poster. ",
       link: "https://bradford2025.co.uk/event/tu-i-tam-tyt-i-tam/",
       images: ["images/flyer_2 Large.jpeg","images/flyer Large.jpeg","images/IMG_9822.jpeg"]
     },
@@ -41,6 +44,9 @@ const projectDetails = {
       link: "https://www.instagram.com/p/DKKmLn7oF58/?img_index=3",
       link2:"https://www.instagram.com/p/DJMli9iCWDe/",
       images: ["images/IMG_6382-2.jpeg","images/IMG_6379-2.jpeg","images/fnl12 .jpeg","images/IMG_6417 .jpeg","images/cuesty2-ezgif.com-resize.gif","images/l insta6 .jpeg"],
+      videos: [
+        { type: "youtube", url: "https://www.instagram.com/reel/DJMli9iCWDe/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==" }
+      ]  
     },
     7: {
       title: "British Business Bank Graphic Design",
