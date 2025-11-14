@@ -40,7 +40,7 @@ const projectDetails = {
       link2:"https://www.instagram.com/p/DJMli9iCWDe/",
       images: ["images/IMG_6382-2.jpeg","images/IMG_6379-2.jpeg","images/fnl12 .jpeg","images/IMG_6417 .jpeg","images/cuesty2-ezgif.com-resize.gif","images/l insta6 .jpeg"],
       videos: [
-        { type: "vimeo", url: "https://vimeo.com/1136685687?fl=pl&fe=sh" }
+        { type: "vimeo", url: "" }
       ]
     },
     7: {
