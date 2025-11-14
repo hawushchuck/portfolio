@@ -130,8 +130,8 @@ const projectDetails = {
       const imagesHTML = project.images.map(img => `
         <img src="${img}" alt="${project.title}">
       `).join("");
-
-            const videosHTML = p.videos
+      
+      const videosHTML = p.videos
         ?.map((v) => renderVideo(v))
         .join("") || "";
 
