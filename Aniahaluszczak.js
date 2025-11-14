@@ -43,7 +43,8 @@ const projectDetails = {
       description: "I recorded artist interviews about their work and process for their workshop promotion. Featuring Pernilla Weinholz, Fashion designer and Lisette Ros, Performance artist. See the full videos linked below.",
       images: ["images/IMG_6382-2.jpeg","images/IMG_6379-2.jpeg","images/fnl12 .jpeg","images/IMG_6417 .jpeg","images/cuesty2-ezgif.com-resize.gif","images/l insta6 .jpeg"],
       videos: [
-        { type: "instagram", url: "https://www.instagram.com/reel/DJMli9iCWDe/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==","https://www.instagram.com/p/DKKmLn7oF58/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==" }
+        { type: "instagram", url: "https://www.instagram.com/reel/DJMli9iCWDe/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",}
+        { type: "instagram", url: "https://www.instagram.com/p/DKKmLn7oF58/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==" }
       ]  
     },
     7: {
@@ -113,9 +114,14 @@ function renderVideo(video) {
         <source src="${video.url}" type="video/mp4">
       </video>`;
   }
-
+  
   if (video.type === "instagram") {
-  const id = video.url.split("/p/")[1]?.split("/")[0];
+  let id;
+  if(video.url.includes("/p/")) {
+    id = video.url.split("/p/")[1]?.split("/")[0];
+  } else if(video.url.includes("/reel/")) {
+    id = video.url.split("/reel/")[1]?.split("/")[0];
+  }
   return `
     <div class="video-wrapper">
       <iframe 
@@ -123,6 +129,7 @@ function renderVideo(video) {
         frameborder="0" 
         allowfullscreen></iframe>
     </div>`;
+    
   }
 
   return "";
