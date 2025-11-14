@@ -8,7 +8,7 @@ const projectDetails = {
     1: {
       title: "Simbioze 2.0: Riga",
       description: "Simbioze 2.0 was an outdoor plein air held in July 2025, then exhibited in Riga November 2025. This shows the process of the exhibition poster design from printmaking to editing and incorporating found textures.",
-      images: ["images/EXP-ezgif.com-optimize.gif","images/Screenshot 2025-10-05 at 20.26.50.jpeg","images/-93.jpeg","images/745098A1-5DCF-4320-82A7-DC2EC9429BC0.jpeg","images/draft1.jpeg"],
+      images: ["images/EXP-ezgif.com-optimize.gif","images/Screenshot 2025-10-05 at 20.26.50.jpeg","images/-93.jpeg","images/745098A1-5DCF-4320-82A7-DC2EC9429BC0.jpeg","images/draft1.jpeg","Envelope Large.jpeg"],
     },
     2: {
       title: "Simbioze 2.0: Skujene",
