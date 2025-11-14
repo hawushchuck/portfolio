@@ -33,7 +33,7 @@ const projectDetails = {
       link2:"https://bcma.gallery/mind-ai-ness-digital-intimacy/",
       images: ["images/background1.jpeg","images/social media-01.jpeg","images/Teaser3-ezgif.com-optimize.gif"],
       videos: [
-        { type: "youtube", url: "https://youtube.com/shorts/XqjDoP2n4NU?feature=share" }
+        { type: "youtube", url: "https://www.youtube.com/shorts/XqjDoP2n4NU?feature=share" }
       ]
     },
     6: {
