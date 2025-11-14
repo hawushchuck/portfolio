@@ -85,39 +85,33 @@ const projectDetails = {
   };
   
   // ---- VIDEO EMBED FUNCTION ----
-  function renderVideo(video) {
-    if (video.type === "youtube") {
-      const id = video.url.split("v=")[1] || video.url.split("/").pop();
-      return `
-        <div class="video-wrapper">
-          <iframe 
-            src="https://www.youtube.com/embed/${id}" 
-            frameborder="0" 
-            allowfullscreen>
-          </iframe>
-        </div>`;
-    }
+function renderVideo(video) {
+  if (video.type === "youtube") {
+    const id = video.url.split("v=")[1] || video.url.split("/").pop();
+    return `
+      <div class="video-wrapper">
+        <iframe src="https://www.youtube.com/embed/${id}" frameborder="0" allowfullscreen></iframe>
+      </div>`;
+  }
 
-    if (video.type === "vimeo") {
-      const id = video.url.split("/").pop();
-      return `
-        <div class="video-wrapper">
-          <iframe 
-            src="https://player.vimeo.com/video/${id}" 
-            frameborder="0" 
-            allowfullscreen>
-          </iframe>
-        </div>`;
-    }
+  if (video.type === "vimeo") {
+    const id = video.url.split("/").pop();
+    return `
+      <div class="video-wrapper">
+        <iframe src="https://player.vimeo.com/video/${id}" frameborder="0" allowfullscreen></iframe>
+      </div>`;
+  }
 
-    if (video.type === "mp4") {
-      return `
-        <video controls>
-          <source src="${video.url}" type="video/mp4">
-        </video>`;
-    }
+  if (video.type === "mp4") {
+    return `
+      <video controls>
+        <source src="${video.url}" type="video/mp4">
+      </video>`;
+  }
 
-    return "";
+  return "";
+} 
+
 
   // Open modal on project click
   document.querySelectorAll(".project-card").forEach(card => {
@@ -130,7 +124,7 @@ const projectDetails = {
         <img src="${img}" alt="${project.title}">
       `).join("");
       
-      const videosHTML = p.videos
+      const videosHTML = project.videos
         ?.map((v) => renderVideo(v))
         .join("") || "";
 
