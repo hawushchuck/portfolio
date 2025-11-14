@@ -31,7 +31,10 @@ const projectDetails = {
       description: "I designed social media assets and a teaser trailer for the Digital Intimacy exhibition, about the intersection of intimacy and AI at BcmA.",
       link: "https://youtube.com/shorts/XqjDoP2n4NU?feature=share",
       link2:"https://bcma.gallery/mind-ai-ness-digital-intimacy/",
-      images: ["images/background1.jpeg","images/social media-01.jpeg","images/Teaser3-ezgif.com-optimize.gif"]
+      images: ["images/background1.jpeg","images/social media-01.jpeg","images/Teaser3-ezgif.com-optimize.gif"],
+      videos: [
+        { type: "youtube", url: "https://youtube.com/shorts/XqjDoP2n4NU?feature=share" }
+      ]
     },
     6: {
       title: "Interviews",
@@ -39,9 +42,6 @@ const projectDetails = {
       link: "https://www.instagram.com/p/DKKmLn7oF58/?img_index=3",
       link2:"https://www.instagram.com/p/DJMli9iCWDe/",
       images: ["images/IMG_6382-2.jpeg","images/IMG_6379-2.jpeg","images/fnl12 .jpeg","images/IMG_6417 .jpeg","images/cuesty2-ezgif.com-resize.gif","images/l insta6 .jpeg"],
-      videos: [
-        { type: "youtube", url: "https://www.instagram.com/p/DKKmLn7oF58/?img_index=3" }
-      ]
     },
     7: {
       title: "British Business Bank Graphic Design",
