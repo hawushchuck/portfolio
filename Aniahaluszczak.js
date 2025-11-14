@@ -37,9 +37,12 @@ const projectDetails = {
       title: "Interviews",
       description: "I recorded artist interviews about their work and process for their workshop promotion. Featuring Pernilla Weinholz, Fashion designer and Lisette Ros, Performance artist. See the full videos linked below.",
       link: "https://www.instagram.com/p/DKKmLn7oF58/?img_index=3",
-      video: "https://www.instagram.com/p/DJMli9iCWDe/",
       link2:"https://www.instagram.com/p/DJMli9iCWDe/",
-      images: ["images/IMG_6382-2.jpeg","images/IMG_6379-2.jpeg","images/fnl12 .jpeg","images/IMG_6417 .jpeg","images/cuesty2-ezgif.com-resize.gif","images/l insta6 .jpeg"]
+      images: ["images/IMG_6382-2.jpeg","images/IMG_6379-2.jpeg","images/fnl12 .jpeg","images/IMG_6417 .jpeg","images/cuesty2-ezgif.com-resize.gif","images/l insta6 .jpeg"],
+      
+      videos: [
+        { type: "vimeo", url: "https://vimeo.com/1136685687?fl=pl&fe=sh" }
+      ]
     },
     7: {
       title: "British Business Bank Graphic Design",
