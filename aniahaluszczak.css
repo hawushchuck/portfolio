@@ -131,7 +131,7 @@ a:hover {
   border-radius: 10px;
   width: 90%;
   max-width: 600px;
-  max-height: 1000vh; /* limit height */
+  max-height: 80vh; /* limit height */
   overflow-y: auto; /* scroll if content is tall */
   position: relative;
 }
