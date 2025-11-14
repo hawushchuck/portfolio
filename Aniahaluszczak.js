@@ -130,7 +130,6 @@ function renderVideo(video) {
         allowfullscreen></iframe>
     </div>`;  
 }
-
   return "";
 }
 
