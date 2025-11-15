@@ -123,12 +123,11 @@ function renderVideo(video) {
     id = video.url.split("/reel/")[1]?.split("/")[0];
   }
 return `
-  <div class="instagram-wrapper">
+  <div class="video-wrapper">
     <iframe 
       src="https://www.instagram.com/p/${id}/embed" 
       frameborder="0" 
-      allowfullscreen>
-    </iframe>
+      allowfullscreen></iframe>
   </div>`;
 }
   return "";
