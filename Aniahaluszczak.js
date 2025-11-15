@@ -122,13 +122,14 @@ function renderVideo(video) {
   } else if(video.url.includes("/reel/")) {
     id = video.url.split("/reel/")[1]?.split("/")[0];
   }
-  return `
-    <div class="video-wrapper">
-      <iframe 
-        src="https://www.instagram.com/p/${id}/embed" 
-        frameborder="0" 
-        allowfullscreen></iframe>
-    </div>`;  
+return `
+  <div class="instagram-wrapper">
+    <iframe 
+      src="https://www.instagram.com/p/${id}/embed" 
+      frameborder="0" 
+      allowfullscreen>
+    </iframe>
+  </div>`;
 }
   return "";
 }
