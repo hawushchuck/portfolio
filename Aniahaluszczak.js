@@ -10,7 +10,7 @@ const projectDetails = {
       description: "Simbioze 2.0 was an outdoor plein air held in July 2025, then exhibited in Riga November 2025. This shows the process of the exhibition poster design; combining printmaking featuring natural elements with editing and incorporating art from city streets. I was inspired by the idea of a portal to the previous workshops, as well as the circularity in art and nature. Check the links to read about the Exhibition. ",
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
       link2: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
-      images: ["images/EXP-ezgif.com-optimize.gif","images/Screenshot 2025-10-05 at 20.26.50.jpeg","images/-93.jpeg","images/745098A1-5DCF-4320-82A7-DC2EC9429BC0.jpeg","images/draft1.jpeg","images/Envelope Large.jpeg"],
+      images: ["images/veldze poster.jpg","images/EXP-ezgif.com-optimize.gif","images/Screenshot 2025-10-05 at 20.26.50.jpeg","images/-93.jpeg","images/riga 1.jpg","images/745098A1-5DCF-4320-82A7-DC2EC9429BC0.jpeg","images/draft1.jpeg","images/riga2","images/Envelope Large.jpeg"],
     },
     2: {
       title: "Simbioze 2.0: Skujene",
