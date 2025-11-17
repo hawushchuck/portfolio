@@ -5,9 +5,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Data for each project
 const projectDetails = {
-      1: {
+    1: {
       title: "Simbioze 2.0: Movie poster", 
-      description: "A film poster made using photgraphy and scans of medical documents, I was inspired by the story of ambition and sacrifice in the movie, as well as the softness of art and nature.
+      description: "A film poster made using photgraphy and scans of medical documents, I was inspired by the story of ambition and sacrifice in the movie, as well as the softness of art and nature.",
       images: ["images/movie poster Large.jpeg","images/lungs.jpeg","images/landscape.jpeg",]
     },
     2: {
@@ -21,7 +21,7 @@ const projectDetails = {
       title: "Simbioze 2.0: Skujene",
       description: "Simbioze 2.0 was an outdoor plein air held in July 2025, This shows the process of the poster design, inspired by the idea of forging a path, and uses paper cut and collage. I designed the logo using an experimental process giving reference to Kefir - the name of the studio. I have included and some event photos for context.",
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
-      images: ["images/simbiozeposter.jpeg","images/IMG_8850.jpeg","images/OG Scan.jpeg","images/000042 2.jpeg","images/P1050183 Large.jpeg", "images/sposter b_w.png", "images/INVITES ENG 2.jpeg","images/P1050144.jpeg","images/P1050250.jpeg","images/Screenshot 2025-09-19 at 16.23.20.jpeg",]
+      images: ["images/PHOTO-2025-07-23-21-37-02.jpg","images/simbiozeposter.jpeg","images/IMG_8850.jpeg","images/OG Scan.jpeg","images/000042 2.jpeg","images/P1050183 Large.jpeg", "images/sposter b_w.png", "images/INVITES ENG 2.jpeg","images/P1050144.jpeg","images/P1050250.jpeg","images/Screenshot 2025-09-19 at 16.23.20.jpeg",]
     },
     4: {
       title: "Open Call",
