@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const closeBtn = document.querySelector(".close");
 
   // Data for each project
-const projectDetails = {
+const projectDetails = {,
     1: {
       title: "Simbioze 2.0: Movie poster", 
       description: "A film poster made using photgraphy and scans of medical documents, I was inspired by the story of ambition and sacrifice in the movie, as well as the softness of art and nature.",
