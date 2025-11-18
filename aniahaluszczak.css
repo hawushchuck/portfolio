@@ -162,6 +162,24 @@ a:hover {
   border-radius: 10px;
 }
 
+.instagram-wrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 9 / 16; /* vertical video format */
+  margin-bottom: 20px;
+}
+
+.instagram-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  border: none;
+}
+
+
 /* Local .mp4 video styling */
 video {
   width: 100%;
