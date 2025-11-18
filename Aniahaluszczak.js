@@ -156,7 +156,7 @@ document.querySelectorAll(".project-card").forEach(card => {
   : "";
 
     const linkHTML2 = project.link2 
-  ? `<p><a href="${project.link}" target="_blank" class="modal-link">
+  ? `<p><a href="${project.link2}" target="_blank" class="modal-link">
        <img src="images/link-icon.svg" alt="Link icon" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;">
        View Project
      </a></p>`
