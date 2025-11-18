@@ -7,25 +7,25 @@ document.addEventListener("DOMContentLoaded", () => {
 const projectDetails = {
     1: {
       title: "Simbioze 2.0: Movie poster", 
-      description: "A film poster made using photgraphy and scans of medical documents, I was inspired by the story of ambition and sacrifice in the movie, as well as the softness of art and nature.",
+      description: "A film poster made using my photography and scans of medical documents, I was inspired by the story of ambition and sacrifice in the movie, as well as the softness of art and nature.",
       images: ["images/movie poster Large.jpeg","images/lungs.jpeg","images/landscape.jpg"],
     },
     2: {
-      title: "Simbioze 2.0: Riga", 
+      title: "Simbioze 2.0: Riga exhibition", 
       description: "Simbioze 2.0 was an outdoor plein air held in July 2025, then exhibited in Riga November 2025. This shows the process of the exhibition poster design; combining printmaking featuring natural elements with editing and incorporating art from city streets. I was inspired by the idea of a portal to the previous workshops, as well as the circularity in art and nature. Check the links to read about the Exhibition. ",
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
       link2: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
       images: ["images/veldze poster.jpg","images/EXP-ezgif.com-optimize.gif","images/-93.jpeg","images/riga 1.jpg","images/745098A1-5DCF-4320-82A7-DC2EC9429BC0.jpeg","images/draft1.jpeg","images/riga 2.jpg","images/Envelope Large.jpeg"],
     },
     3: {
-      title: "Simbioze 2.0: Skujene",
+      title: "Simbioze 2.0: Skujene Plein air",
       description: "Simbioze 2.0 was an outdoor plein air held in July 2025, This shows the process of the poster design, inspired by the idea of forging a path, and uses paper cut and collage. I designed the logo using an experimental process giving reference to Kefir - the name of the studio. I have included and some event photos for context.",
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
       images: ["images/PHOTO-2025-07-23-21-37-02.jpg","images/simbiozeposter.jpeg","images/IMG_8850.jpeg","images/OG Scan.jpeg","images/000042 2.jpeg","images/P1050183 Large.jpeg", "images/sposter b_w.png", "images/INVITES ENG 2.jpeg","images/P1050144.jpeg","images/P1050250.jpeg","images/Screenshot 2025-09-19 at 16.23.20.jpeg",]
     },
     4: {
       title: "Open Call",
-      description: "I designed an Open Call poster for Simbioze 2.0, an outdoor plein air event held in July 2025 in Skujene, Latvia. I created an animation from the poster to make it more interesting on Instagram stories.",
+      description: "I designed an Open Call poster for Simbioze 2.0, an outdoor plein air event held in July 2025 in Skujene, Latvia. I created an animation from the poster to make it more engaging on Instagram stories.",
       images: ["images/2-3 Large.jpeg", "images/open call final Large.jpeg","images/Sequence01-ezgif.com-resize.gif","images/62FFC0EE-8332-45F8-8079-8668349B1FAF Large.jpeg"]
     },
     5: {
@@ -36,7 +36,7 @@ const projectDetails = {
     },
     6: {
       title: "Digital Intimacy",
-      description: "I designed social media assets and a teaser trailer for the Digital Intimacy exhibition, about the intersection of intimacy and AI at BcmA.",
+      description: "I designed social media assets using my own photography and type design. I made a teaser trailer incorporating these graphics. Digital Intimacy was a performance exhibition about the intersection of intimacy and AI shown BcmA gallery.",
       link2:"https://bcma.gallery/mind-ai-ness-digital-intimacy/",
       images: ["images/background1.jpeg","images/social media-01.jpeg"],
       videos: [
@@ -62,7 +62,7 @@ const projectDetails = {
     },
     9: {
       title: "Post Produzione",
-      description: "Postproduzione is an Italian postcast that discusses visual art through a youthful, contemporary lens.This shows the final design in context and some intial idea development.",
+      description: "Postproduzione is an Italian postcast that discusses visual art through a youthful, contemporary lens. This shows the final design in context and some intial idea development.",
       link: "https://open.spotify.com/episode/4Z0nLIKZqIJgT2xazTw3QO?si=e413eabe7aa7450e",
       images: ["images/PostProduzione_colori.jpeg","images/image-294f887d-fe32-45e2-8e19-5d7fe3fe9112.png","images/image-e47eb326-529f-457b-b2d5-b0fa9c556dbe.png","images/Post Prozuzione_8.jpeg","images/Post Produzione_4 Large.jpeg"],
     },
