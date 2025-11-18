@@ -7,12 +7,12 @@ document.addEventListener("DOMContentLoaded", () => {
 const projectDetails = {
     1: {
       title: "Simbioze 2.0: Movie poster", 
-      description: "A film poster made using my photography and scans of medical documents, I was inspired by the story of ambition and sacrifice in the movie, as well as the softness of art and nature.",
+      description: "A film poster for a documentary about an art event. I made this using my photography and scans of medical documents, I was inspired by the story of ambition and sacrifice in the film, as well as the softness of art and nature. The film is currently being submitted to festivals.",
       images: ["images/movie poster Large.jpeg","images/lungs.jpeg","images/landscape.jpg"],
     },
     2: {
       title: "Simbioze 2.0: Riga exhibition", 
-      description: "Simbioze 2.0 was an outdoor plein air held in July 2025, then exhibited in Riga November 2025. This shows the process of the exhibition poster design; combining printmaking featuring natural elements with editing and incorporating art from city streets. I was inspired by the idea of a portal to the previous workshops, as well as the circularity in art and nature. Check the links to read about the Exhibition. ",
+      description: "Simbioze 2.0 was an outdoor plein air held in July 2025, then exhibited in Riga November 2025. This shows the process of the exhibition poster design; combining printmaking featuring natural elements with art from city streets. I was inspired by the idea of a portal, as well as the circularity in art and nature. Check the links to read about the Exhibition. ",
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
       link2: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
       images: ["images/veldze poster.jpg","images/EXP-ezgif.com-optimize.gif","images/-93.jpeg","images/riga 1.jpg","images/745098A1-5DCF-4320-82A7-DC2EC9429BC0.jpeg","images/draft1.jpeg","images/riga 2.jpg","images/Envelope Large.jpeg"],
@@ -36,7 +36,7 @@ const projectDetails = {
     },
     6: {
       title: "Digital Intimacy",
-      description: "I designed social media assets using my own photography and type design. I made a teaser trailer incorporating these graphics. Digital Intimacy was a performance exhibition about the intersection of intimacy and AI shown BcmA gallery.",
+      description: "I designed social media assets to adevertise this exhibition/open call for performance artistis. I used a collage of my own photography and blocky type design. I made a teaser trailer incorporating these graphics. Digital Intimacy was a performance exhibition about the intersection of intimacy and AI shown BcmA gallery.",
       link2:"https://bcma.gallery/mind-ai-ness-digital-intimacy/",
       images: ["images/background1.jpeg","images/social media-01.jpeg"],
       videos: [
@@ -45,7 +45,7 @@ const projectDetails = {
     },
     7: {
       title: "Interviews",
-      description: "I recorded artist interviews about their work and process for their workshop promotion. Featuring Pernilla Weinholz, Fashion designer and Lisette Ros, Performance artist. See the full videos linked below.",
+      description: "I recorded artist interviews about their work and process for promotion of workshops. The videos below feature Pernilla Weinholz, Fashion designer and Lisette Ros, Performance artist.",
       images: ["images/IMG_6382-2.jpeg","images/IMG_6379-2.jpeg","images/fnl12 .jpeg","images/IMG_6417 .jpeg","images/cuesty2-ezgif.com-resize.gif","images/l insta6 .jpeg"],
       videos: [
         { type: "instagram", url: "https://www.instagram.com/reel/DJMli9iCWDe/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ=="},
