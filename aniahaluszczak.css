@@ -221,6 +221,6 @@ video {
   float: right; /* keep it aligned to the top-right */
   z-index: 10;
   background: #fff; /* optional: prevent overlap with text */
-  border-radius: 50%;
+  border-radius: 100%;
   padding: 4px 12px;
 }
