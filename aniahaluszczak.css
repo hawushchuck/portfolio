@@ -7,30 +7,24 @@ font-family: "Lexend", sans-serif;
 
 /* HERO */
 .hero {
-  background: #ffffff;
-  color: rgb(52, 42, 59);
+  position: relative;
   text-align: center;
   padding: 4rem 2rem;
+  background: #fff;
+  color: rgb(52, 42, 59);
 }
 
-.hero h1 {
-  font-size: 1.5rem;
-    cursor: crosshair;
+/* Centered text block */
+.hero-text {
+  max-width: 600px;
+  margin: 0 auto;
 }
 
-.header-top {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  padding: 1rem 2rem;
-  position: relative;
-}
-
-.header-left {
-  max-width: 70%;
-}
-
-.header-right {
+/* Fixed icons in top-right corner */
+.header-icons {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
   display: flex;
   gap: 1rem;
 }
@@ -46,8 +40,8 @@ font-family: "Lexend", sans-serif;
 }
 
 .icon-btn img {
-  width: 28px;
-  height: 28px;
+  width: 26px;
+  height: 26px;
   filter: invert(20%) sepia(60%) saturate(400%) hue-rotate(230deg);
 }
 
@@ -55,6 +49,7 @@ font-family: "Lexend", sans-serif;
   transform: scale(1.1);
   opacity: 0.8;
 }
+
 
 /* SECTIONS */
 section {
