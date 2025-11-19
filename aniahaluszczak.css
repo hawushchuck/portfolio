@@ -24,7 +24,7 @@ font-family: "Lexend", sans-serif;
 .header-icons {
   position: absolute;
   top: 2.5rem;
-  right: 3rem;
+  right: 4rem;
   display: flex;
   gap: 1rem;
 }
