@@ -42,7 +42,7 @@ font-family: "Lexend", sans-serif;
 .icon-btn img {
   width: 26px;
   height: 26px;
-  filter: invert(20%) sepia(60%) saturate(400%) hue-rotate(230deg);
+  fill: rgb(52, 42, 59);
 }
 
 .icon-btn:hover {
