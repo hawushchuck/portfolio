@@ -10,7 +10,8 @@ const projectDetails = {
       description: "A film poster for a documentary about an art event. I made this using my photography and scans of medical documents, Inspired by the story of ambition and sacrifice in the film, as well as the softness of art and nature. The film is currently being submitted to festivals.",
       images: ["images/movie poster Large.jpeg","images/lungs.jpeg","images/landscape.jpg"],
       videos: [
-        { type: "instagram", url: "https://www.instagram.com/reel/DQhG3iQiEg2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="},
+        { type: "instagram", url: "https://www.instagram.com/reel/DQhG3iQiEg2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="}
+        ]
     },
     2: {
       title: "Simbioze 2.0: Riga exhibition", 
@@ -20,6 +21,7 @@ const projectDetails = {
       videos: [
         { type: "instagram", url: "https://www.instagram.com/reel/DQj55KEDj06/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="},
         { type: "instagram", url: "https://www.instagram.com/p/DRK55m3iMeX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" }
+        ]
     },
     3: {
       title: "Simbioze 2.0: Skujene Plein air",
@@ -28,6 +30,7 @@ const projectDetails = {
       images: ["images/PHOTO-2025-07-23-21-37-02.jpg","images/simbiozeposter.jpeg","images/IMG_8850.jpeg","images/OG Scan.jpeg","images/000042 2.jpeg","images/P1050183 Large.jpeg", "images/sposter b_w.png", "images/INVITES ENG 2.jpeg","images/P1050144.jpeg","images/P1050250.jpeg","images/Screenshot 2025-09-19 at 16.23.20.jpeg"],
       videos: [
         { type: "instagram", url: "https://www.instagram.com/p/DOL5bqkiMgY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" }
+        ]
     },
     4: {
       title: "Open Call",
@@ -35,6 +38,7 @@ const projectDetails = {
       images: ["images/2-3 Large.jpeg", "images/open call final Large.jpeg","images/Sequence01-ezgif.com-resize.gif","images/62FFC0EE-8332-45F8-8079-8668349B1FAF Large.jpeg"],
        videos: [
         { type: "instagram", url: "https://www.instagram.com/p/DJR3RoRieRY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" }
+        ]
     },
     5: {
       title: "Tu i Tam",
