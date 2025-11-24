@@ -35,7 +35,7 @@ const projectDetails = {
     4: {
       title: "Open Call",
       description: "I designed an Open Call poster for Simbioze 2.0, an outdoor plein air event held in July 2025 in Skujene, Latvia. I created an animation to increase engagement on Instagram stories. We recieved over 100 aplications in 1 month of running the advert, and were able to use the responses to tailor workshops and offer initial advice.",
-      images: ["images/2-3 Large.jpeg", "images/open call final Large.jpeg","images/Sequence01-ezgif.com-resize.gif","images/62FFC0EE-8332-45F8-8079-8668349B1FAF Large.jpeg"],
+      images: ["images/2-3 Large.jpeg", "images/open call final Large.jpeg","images/Sequence01-ezgif.com-resize.gif"],
        videos: [
         { type: "instagram", url: "https://www.instagram.com/p/DJR3RoRieRY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" }
         ]
