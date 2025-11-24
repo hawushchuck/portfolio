@@ -7,26 +7,34 @@ document.addEventListener("DOMContentLoaded", () => {
 const projectDetails = {
     1: {
       title: "Simbioze 2.0: Movie poster", 
-      description: "A film poster for a documentary about an art event. I made this using my photography and scans of medical documents, I was inspired by the story of ambition and sacrifice in the film, as well as the softness of art and nature. The film is currently being submitted to festivals.",
+      description: "A film poster for a documentary about an art event. I made this using my photography and scans of medical documents, Inspired by the story of ambition and sacrifice in the film, as well as the softness of art and nature. The film is currently being submitted to festivals.",
       images: ["images/movie poster Large.jpeg","images/lungs.jpeg","images/landscape.jpg"],
+      videos: [
+        { type: "instagram", url: "https://www.instagram.com/reel/DQhG3iQiEg2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="},
     },
     2: {
       title: "Simbioze 2.0: Riga exhibition", 
-      description: "Simbioze 2.0 was an outdoor plein air held in July 2025, then exhibited in Riga November 2025. This shows the process of the exhibition poster design; combining printmaking featuring natural elements with art from city streets. I was inspired by the idea of a portal, as well as the circularity in art and nature. Check the links to read about the Exhibition. ",
+      description: "Simbioze 2.0 was an outdoor plein air held in July 2025, then exhibited in Riga November 2025. The poster was featured in two publications and this event featured over 50 art works including performances and fashion pieces. This shows the process of the exhibition poster design; combining printmaking featuring natural elements with art from city streets. Inspired by the idea of a portal, as well as the circularity in art and nature. Check the links to read about the Exhibition. ",
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
-      link2: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
-      images: ["images/veldze poster.jpg","images/EXP-ezgif.com-optimize.gif","images/-93.jpeg","images/riga 1.jpg","images/745098A1-5DCF-4320-82A7-DC2EC9429BC0.jpeg","images/draft1.jpeg","images/riga 2.jpg","images/Envelope Large.jpeg"],
+      images: ["images/veldze poster.jpg","images/EXP-ezgif.com-optimize.gif","images/-93.jpeg","images/745098A1-5DCF-4320-82A7-DC2EC9429BC0.jpeg","images/draft1.jpeg","images/Envelope Large.jpeg"],
+      videos: [
+        { type: "instagram", url: "https://www.instagram.com/reel/DQj55KEDj06/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="},
+        { type: "instagram", url: "https://www.instagram.com/p/DRK55m3iMeX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" }
     },
     3: {
       title: "Simbioze 2.0: Skujene Plein air",
-      description: "Simbioze 2.0 was an outdoor plein air held in July 2025, This shows the process of the poster design, inspired by the idea of forging a path, and uses paper cut and collage. I designed the logo using an experimental process giving reference to Kefir - the name of the studio. I have included and some event photos for context.",
+      description: "Simbioze 2.0 was an outdoor plein air held in July 2025, The event featured 50 artists and was notably sponsored by The European Union, KKF Latvia, Red Bull and Bourzma studio among others. This shows the process of the poster design, inspired by the idea of forging a path, and uses paper cut and collage. I designed the logo using an experimental process giving reference to Kefir - the name of the studio. I have included and some event photos for context.",
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
-      images: ["images/PHOTO-2025-07-23-21-37-02.jpg","images/simbiozeposter.jpeg","images/IMG_8850.jpeg","images/OG Scan.jpeg","images/000042 2.jpeg","images/P1050183 Large.jpeg", "images/sposter b_w.png", "images/INVITES ENG 2.jpeg","images/P1050144.jpeg","images/P1050250.jpeg","images/Screenshot 2025-09-19 at 16.23.20.jpeg",]
+      images: ["images/PHOTO-2025-07-23-21-37-02.jpg","images/simbiozeposter.jpeg","images/IMG_8850.jpeg","images/OG Scan.jpeg","images/000042 2.jpeg","images/P1050183 Large.jpeg", "images/sposter b_w.png", "images/INVITES ENG 2.jpeg","images/P1050144.jpeg","images/P1050250.jpeg","images/Screenshot 2025-09-19 at 16.23.20.jpeg"],
+      videos: [
+        { type: "instagram", url: "https://www.instagram.com/p/DOL5bqkiMgY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" }
     },
     4: {
       title: "Open Call",
-      description: "I designed an Open Call poster for Simbioze 2.0, an outdoor plein air event held in July 2025 in Skujene, Latvia. I created an animation from the poster to make it more engaging on Instagram stories.",
-      images: ["images/2-3 Large.jpeg", "images/open call final Large.jpeg","images/Sequence01-ezgif.com-resize.gif","images/62FFC0EE-8332-45F8-8079-8668349B1FAF Large.jpeg"]
+      description: "I designed an Open Call poster for Simbioze 2.0, an outdoor plein air event held in July 2025 in Skujene, Latvia. I created an animation to increase engagement on Instagram stories. We recieved over 100 aplications in 1 month of running the advert, and were able to use the responses to tailor workshops and offer initial advice.",
+      images: ["images/2-3 Large.jpeg", "images/open call final Large.jpeg","images/Sequence01-ezgif.com-resize.gif","images/62FFC0EE-8332-45F8-8079-8668349B1FAF Large.jpeg"],
+       videos: [
+        { type: "instagram", url: "https://www.instagram.com/p/DJR3RoRieRY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" }
     },
     5: {
       title: "Tu i Tam",
