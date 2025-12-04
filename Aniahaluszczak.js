@@ -29,7 +29,8 @@ const projectDetails = {
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
       images: ["images/PHOTO-2025-07-23-21-37-02.jpg","images/simbiozeposter.jpeg","images/IMG_8850.jpeg","images/OG Scan.jpeg","images/sposter b_w.png", "images/INVITES ENG 2.jpeg","images/Screenshot 2025-09-19 at 16.23.20.jpeg"],
       videos: [
-        { type: "instagram", url: "https://www.instagram.com/p/DOL5bqkiMgY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" }
+        { type: "instagram", url: "https://www.instagram.com/p/DOL5bqkiMgY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" },
+        { type: "instagram", url: "https://www.instagram.com/p/DOtP1CQCHnE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" } 
         ]
     },
     4: {
