@@ -40,21 +40,6 @@ const projectDetails = {
         { type: "instagram", url: "https://www.instagram.com/p/DJR3RoRieRY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" }
         ]
     },
-    5: {
-      title: "Tu i Tam",
-      description: "Creative baking and design project for an exhibition opening about Polish heritage. I made 50 bakes and a branded pop-up poster. ",
-      link: "https://bradford2025.co.uk/event/tu-i-tam-tyt-i-tam/",
-      images: ["images/flyer_2 Large.jpeg","images/flyer Large.jpeg","images/IMG_9822.jpeg"]
-    },
-    6: {
-      title: "Digital Intimacy",
-      description: "I designed social media assets to adevertise this exhibition/open call for performance artistis. I used a collage of my own photography and blocky type design. I made a teaser trailer incorporating these graphics. Digital Intimacy was a performance exhibition about the intersection of intimacy and AI shown BcmA gallery.",
-      link2:"https://bcma.gallery/mind-ai-ness-digital-intimacy/",
-      images: ["images/background1.jpeg","images/social media-01.jpeg"],
-      videos: [
-        { type: "youtube", url: "https://www.youtube.com/shorts/XqjDoP2n4NU?feature=share" }
-      ]
-    },
     7: {
       title: "Interviews",
       description: "I recorded artist interviews about their work and process for promotion of workshops. The videos below feature Pernilla Weinholz, Fashion designer and Lisette Ros, Performance artist.",
