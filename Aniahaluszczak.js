@@ -40,7 +40,7 @@ const projectDetails = {
         { type: "instagram", url: "https://www.instagram.com/p/DJR3RoRieRY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" }
         ]
     },
-    7: {
+    5: {
       title: "Interviews",
       description: "I recorded artist interviews about their work and process for promotion of workshops. The videos below feature Pernilla Weinholz, Fashion designer and Lisette Ros, Performance artist.",
       images: ["images/IMG_6382-2.jpeg","images/IMG_6379-2.jpeg","images/fnl12 .jpeg","images/IMG_6417 .jpeg","images/cuesty2-ezgif.com-resize.gif","images/l insta6 .jpeg"],
@@ -49,7 +49,7 @@ const projectDetails = {
         { type: "instagram", url: "https://www.instagram.com/p/DKKmLn7oF58/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==" }
       ]  
     },
-    8: {
+    6: {
       title: "British Business Bank Graphic Design",
       description: "During my internship at British Business Bank (a government funded bank), I took on several projects around making finance more acessible to a range of audiences using graphic, illustration and motion design skills",
       images: ["images/SBET factsheet  Large.jpeg","images/SBET factsheet 2 Large.jpeg","images/SBET factsheet 3 Large.jpeg","images/SBET factsheet 4 Large.jpeg","images/Icons for the intranet bbb 08045-08068 Large.jpeg","images/v7pngs-02 Large.jpeg","images/v7pngs-05 Large.jpeg","images/SUL Ambassadors colourways 24_25 Large.jpeg","images/external 16-9_BBB 08520 Woof The Yorkshire Dog Shop Large.jpeg"],
@@ -57,30 +57,30 @@ const projectDetails = {
         { type: "youtube", url: "https://youtube.com/shorts/j_IWuJWzhw4?feature=share" }
       ]
     },
-    9: {
+    7: {
       title: "Post Produzione",
       description: "Postproduzione is an Italian postcast that discusses visual art through a youthful, contemporary lens. This shows the final design in context and some intial idea development.",
       link: "https://open.spotify.com/episode/4Z0nLIKZqIJgT2xazTw3QO?si=e413eabe7aa7450e",
       images: ["images/PostProduzione_colori.jpeg","images/image-294f887d-fe32-45e2-8e19-5d7fe3fe9112.png","images/image-e47eb326-529f-457b-b2d5-b0fa9c556dbe.png","images/Post Prozuzione_8.jpeg","images/Post Produzione_4 Large.jpeg"],
     },
-    10: {
+    8: {
       title: "OFN Film Festival ",
       description: "Photoshoot and Layout for Instagram.",
       images: ["images/1ofn Large.jpeg","images/2ofn Large.jpeg","images/3ofn Large.jpeg","images/4ofn Large.jpeg","images/5ofn Large.jpeg","images/6ofn Large.jpeg"]
     },
-    11: {
+    9: {
       title: "Grove Website and Branding",
       description: "Grove Dyslexia is a small business that provides diagnostic dyslexia assessments for children and adults. I redesigned the website using Figma and Square Space with a focus on accessibility. It was also an aim to design something that was more reflective of the growth of the business, and the refinement of it’s services.",
       link: "https://grovedyslexia.squarespace.com/",
       images: ["images/9C4B7BE4-927E-411E-99DB-C9F4DB6910FD Medium.jpeg","images/Screenshot 2025-06-23 at 21.57.41 Large.jpeg","images/Capture-2025-06-23-215646 Large.jpeg","images/grove.png","images/grove 2.png"]
     },
-    12: {
+    10: {
       title: "Altrincham Dyslexia Website",
       link: "https://altrinchamdyslexiasupport.co.uk/",
       description: "Altrincham Dyslexia provides services and assessments for individuals with dyslexia around the greater Manchester area. I designed the website.",
       images: ["images/Screenshot 2025-10-05 at 15.03.50.png","images/Screenshot 2025-10-05 at 15.03.56.png","images/Screenshot 2025-10-05 at 15.04.02.jpeg","images/Screenshot 2025-10-05 at 15.04.09.png"]
     },
-     13: {
+     11: {
       title: "ESE London",
       description: "ESE is a private business school in London and across Europe. I designed digital brochures, edited interviews, Photos and other media for the school.",
       images: ["images/Gapyearprogramme  .jpeg","images/Gapyearprogramme3 Large.png","images/Gapyearprogramme5  .jpeg","images/Gapyearprogramme6  .jpeg","images/ese-instaad_otz Large.jpeg","images/ese-instaad_story  .jpeg","images/XMAS_EVENTBRITE.jpeg"]
