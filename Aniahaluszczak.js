@@ -60,7 +60,7 @@ const projectDetails = {
     },
     7: {
       title: "Post Produzione",
-      description: "Postproduzione is an Italian postcast that discusses visual art through a youthful, contemporary lens. This shows the final design in context and some intial idea development.",
+      description: "Postproduzione is an Italian podcast that discusses visual art through a youthful, contemporary lens. This shows the final design in context and some initial idea development.",
       link: "https://open.spotify.com/episode/4Z0nLIKZqIJgT2xazTw3QO?si=e413eabe7aa7450e",
       images: ["images/PostProduzione_colori.jpeg","images/image-294f887d-fe32-45e2-8e19-5d7fe3fe9112.png","images/image-e47eb326-529f-457b-b2d5-b0fa9c556dbe.png","images/Post Prozuzione_8.jpeg","images/Post Produzione_4 Large.jpeg"],
     },
