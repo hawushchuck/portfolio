@@ -79,7 +79,7 @@ const projectDetails = {
       title: "Altrincham Dyslexia Website",
       link: "https://altrinchamdyslexiasupport.co.uk/",
       description: "Altrincham Dyslexia provides services and assessments for individuals with dyslexia around the greater Manchester area. I designed the website.",
-      images: ["images/Screenshot 2025-10-05 at 15.03.50.png","images/Screenshot 2025-10-05 at 15.03.56.png","images/Screenshot 2025-10-05 at 15.04.02.jpeg","images/Screenshot 2025-10-05 at 15.04.09.png"]
+      images: ["images/Julia_mockup 1 Large.png","images/Screenshot 2025-10-05 at 15.03.56.png","images/Screenshot 2025-10-05 at 15.04.02.jpeg","images/Screenshot 2025-10-05 at 15.04.09.png"]
     },
      11: {
       title: "ESE London",
