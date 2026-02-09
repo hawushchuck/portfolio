@@ -17,7 +17,7 @@ const projectDetails = {
       title: "Simbioze 2.0: Riga exhibition", 
       description: "Simbioze 2.0 was an outdoor plein air held in July 2025, then exhibited in Riga in November 2025. The poster was featured in two publications, and this event featured over 50 artworks, including performances and fashion pieces. This shows the process of the exhibition poster design; combining printmaking featuring natural elements with art from city streets. Inspired by the idea of a portal, as well as the circularity in art and nature. Check the links to read about the Exhibition. ",
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
-      images: ["images/veldze poster.jpg","images/EXP-ezgif.com-optimize.gif","images/-93.jpeg","images/745098A1-5DCF-4320-82A7-DC2EC9429BC0.jpeg","images/draft1.jpeg","images/Envelope Large.jpeg"],
+      images: ["images/veldze_mockup.jpeg","images/EXP-ezgif.com-optimize.gif","images/-93.jpeg","images/745098A1-5DCF-4320-82A7-DC2EC9429BC0.jpeg","images/draft1.jpeg","images/Envelope Large.jpeg"],
       videos: [
         { type: "instagram", url: "https://www.instagram.com/reel/DQj55KEDj06/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="},
         { type: "instagram", url: "https://www.instagram.com/p/DRK55m3iMeX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" }
