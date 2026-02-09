@@ -53,7 +53,7 @@ const projectDetails = {
     6: {
       title: "British Business Bank Graphic Design",
       description: "During my internship at British Business Bank (a government-funded bank), I took on several projects around making finance more accessible to a range of audiences using graphic, illustration and motion design skills",
-      images: ["images/SBET factsheet  Large.jpeg","images/SBET factsheet 2 Large.jpeg","images/SBET factsheet 3 Large.jpeg","images/SBET factsheet 4 Large.jpeg","images/Icons for the intranet bbb 08045-08068 Large.jpeg","images/v7pngs-02 Large.jpeg","images/v7pngs-05 Large.jpeg","images/SUL Ambassadors colourways 24_25 Large.jpeg","images/external 16-9_BBB 08520 Woof The Yorkshire Dog Shop Large.jpeg"],
+      images: ["images/SBET MOCKUP Large","images/Icons for the intranet bbb 08045-08068 Large.jpeg","images/v7pngs-02 Large.jpeg","images/v7pngs-05 Large.jpeg","images/SUL Ambassadors colourways 24_25 Large.jpeg","images/external 16-9_BBB 08520 Woof The Yorkshire Dog Shop Large.jpeg"],
       videos: [
         { type: "youtube", url: "https://youtube.com/shorts/j_IWuJWzhw4?feature=share" }
       ]
