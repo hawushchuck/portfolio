@@ -84,7 +84,7 @@ const projectDetails = {
      11: {
       title: "ESE London",
       description: "ESE is a private business school in London and across Europe. I designed digital brochures, edited interviews, Photos and other media for the school.",
-      images: ["images/ESEmockup.png","images/ese-instaad_otz Large.jpeg","images/ese-instaad_story  .jpeg","images/XMAS_EVENTBRITE.jpeg"]
+      images: ["images/ESEmockup.png","images/ese insta mockup.png","images/ese insta mockup2.png","images/XMAS_EVENTBRITE.jpeg"]
     },
   };
   
