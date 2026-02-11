@@ -72,7 +72,7 @@ const projectDetails = {
     9: {
       title: "Grove Website and Branding",
       description: "Grove Dyslexia is a small business that provides diagnostic dyslexia assessments for children and adults. I redesigned the website using Figma and Squarespace with a focus on accessibility. It was also an aim to design something more reflective of the growth of the business, and the refinement of it’s services.",
-      images: ["images/9C4B7BE4-927E-411E-99DB-C9F4DB6910FD Medium.jpeg","images/figma_grove","images/grove_3","images/grove_4","images/grove_vis","images/grove 2.png"]
+      images: ["images/9C4B7BE4-927E-411E-99DB-C9F4DB6910FD Medium.jpeg","images/figma_grove.png","images/grove_3.png","images/grove_4.png","images/grove_vis.png","images/grove 2.png"]
     },
     10: {
       title: "Altrincham Dyslexia Website",
