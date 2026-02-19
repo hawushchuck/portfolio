@@ -8,7 +8,7 @@ const projectDetails = {
   1: {
       title: "Grove Website and Branding",
       description: "Grove Dyslexia is a small business that provides diagnostic dyslexia assessments for children and adults. I built the website with a focus on accessibility. I designed something more reflective of the business's growth and the refinement of its services. I initiated the ideas in Figma and built using HTML, CSS, and JS as well as Formspree. One key feature was the coloured overlay button, which reduces visual stress on the screen, hugley beneficial for some users.",
-      images: ["images/Grove_mockup1.jpeg","images/grove_3.png","images/grove_4.png","images/grove_vis.png","images/grove_5.png","images/grove 2.png"]
+      images: ["images/Grove_mockup1.png","images/grove_3.png","images/grove_4.png","images/grove_vis.png","images/grove_5.png","images/grove 2.png"]
     }, 
   
   2: {
