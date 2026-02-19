@@ -71,17 +71,12 @@ const projectDetails = {
       images: ["images/PostProduzione_colori.jpeg","images/PP Large.jpeg","images/image-e47eb326-529f-457b-b2d5-b0fa9c556dbe.png","images/Post Prozuzione_8.jpeg","images/Post Produzione_4 Large.jpeg"],
     },
     9: {
-      title: "OFN Film Festival ",
-      description: "Photoshoot and Layout for Instagram.",
-      images: ["images/1ofn Large.jpeg","images/2ofn Large.jpeg","images/3ofn Large.jpeg","images/4ofn Large.jpeg","images/5ofn Large.jpeg","images/6ofn Large.jpeg"]
-    },
-    10: {
       title: "Altrincham Dyslexia Website",
       link: "https://altrinchamdyslexiasupport.co.uk/",
       description: "Altrincham Dyslexia provides services and assessments for individuals with dyslexia around the greater Manchester area. I designed the website.",
       images: ["images/Julia_mockup 1 Large.png","images/Screenshot 2025-10-05 at 15.03.56.png","images/Screenshot 2025-10-05 at 15.04.02.jpeg","images/Screenshot 2025-10-05 at 15.04.09.png"]
     },
-     11: {
+     10: {
       title: "ESE London",
       description: "ESE is a private business school in London and across Europe. I designed digital brochures, edited interviews, photos and other media for the school.",
       images: ["images/ESEmockup.png","images/ese insta mockup.png","images/ese insta mockup2.png","images/XMAS_EVENTBRITE.jpeg"]
