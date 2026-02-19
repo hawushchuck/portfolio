@@ -5,7 +5,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Data for each project
 const projectDetails = {
-    1: {
+  1: {
+      title: "Grove Website and Branding",
+      description: "Grove Dyslexia is a small business that provides diagnostic dyslexia assessments for children and adults. I built the website with a focus on accessibility. I designed something more reflective of the business's growth and the refinement of its services. I initiated the ideas in Figma and built using HTML, CSS, and JS as well as Formspree. One key feature was the coloured overlay button, which reduces visual stress on the screen, hugley beneficial for some users.",
+      images: ["images/Grovemockup1.jpeg","images/figma_grove.png","images/grove_3.png","images/grove_4.png","images/grove_vis.png","images/grove 2.png"]
+    }, 
+  
+  2: {
       title: "Simbioze 2.0: Movie poster", 
       description: "A film poster for a documentary about an art event. I made this using my photography and scans of medical documents, inspired by the story of ambition and sacrifice in the film, as well as the softness of art and nature. The film is currently being submitted to festivals.",
       images: ["images/movie poster Large.jpeg","images/lungs.jpeg","images/landscape.jpg"],
@@ -13,7 +19,7 @@ const projectDetails = {
         { type: "instagram", url: "https://www.instagram.com/reel/DQhG3iQiEg2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="}
         ]
     },
-    2: {
+    3: {
       title: "Simbioze 2.0: Riga exhibition", 
       description: "Simbioze 2.0 was an outdoor plein air held in July 2025, then exhibited in Riga in November 2025. The poster was featured in two publications, and this event featured over 50 artworks, including performances and fashion pieces. This shows the process of the exhibition poster design; combining printmaking featuring natural elements with art from city streets. Inspired by the idea of a portal, as well as the circularity in art and nature. Check the links to read about the Exhibition. ",
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
@@ -23,7 +29,7 @@ const projectDetails = {
         { type: "instagram", url: "https://www.instagram.com/p/DRK55m3iMeX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" }
         ]
     },
-    3: {
+    4: {
       title: "Simbioze 2.0: Skujene Plein air",
       description: "Simbioze 2.0 was an outdoor plein air held in July 2025, The event featured 50 artists and was notably sponsored by The European Union, KKF Latvia, Red Bull and Bourzma studio, among others. This shows the process of the poster design, inspired by the idea of forging a path, and uses paper cut and collage. I designed the logo using an experimental process that references Kefir, the name of the studio. I have included some event photos for context.",
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
@@ -33,7 +39,7 @@ const projectDetails = {
         { type: "instagram", url: "https://www.instagram.com/p/DOtP1CQCHnE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" } 
         ]
     },
-    4: {
+    5: {
       title: "Open Call",
       description: "I designed an Open Call poster for Simbioze 2.0, an outdoor plein air event held in July 2025 in Skujene, Latvia. I created an animation to increase engagement on Instagram stories. We received over 100 applications in 1 month of running the advert, and were able to use the responses to tailor workshops and offer initial advice.",
       images: ["images/2-3 Large.jpeg", "images/open call final Large.jpeg","images/Sequence01-ezgif.com-resize.gif"],
@@ -41,7 +47,7 @@ const projectDetails = {
         { type: "instagram", url: "https://www.instagram.com/p/DJR3RoRieRY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" }
         ]
     },
-    5: {
+    6: {
       title: "Interviews",
       description: "I recorded artist interviews about their work and process for promotion of workshops. The videos below feature Pernilla Weinholz, Fashion designer and Lisette Ros, Performance artist.",
       images: ["images/IMG_6382-2.jpeg","images/IMG_6379-2.jpeg","images/fnl12 .jpeg","images/IMG_6417 .jpeg","images/cuesty2-ezgif.com-resize.gif","images/l insta6 .jpeg"],
@@ -50,7 +56,7 @@ const projectDetails = {
         { type: "instagram", url: "https://www.instagram.com/p/DKKmLn7oF58/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==" }
       ]  
     },
-    6: {
+    7: {
       title: "British Business Bank Graphic Design",
       description: "During my internship at British Business Bank (a government-funded bank), I took on several projects around making finance more accessible to a range of audiences using graphic, illustration and motion design skills",
       images: ["images/SBET MOCKUP Large.png","images/Icons for the intranet bbb 08045-08068 Large.jpeg","images/v7pngs-02 Large.jpeg","images/v7pngs-05 Large.jpeg","images/SUL Ambassadors colourways 24_25 Large.jpeg","images/external 16-9_BBB 08520 Woof The Yorkshire Dog Shop Large.jpeg"],
@@ -58,21 +64,16 @@ const projectDetails = {
         { type: "youtube", url: "https://youtube.com/shorts/j_IWuJWzhw4?feature=share" }
       ]
     },
-    7: {
+    8: {
       title: "Post Produzione",
       description: "Postproduzione is an Italian podcast that discusses visual art through a youthful, contemporary lens. This shows the final design in context and some initial idea development.",
       link: "https://open.spotify.com/episode/4Z0nLIKZqIJgT2xazTw3QO?si=e413eabe7aa7450e",
       images: ["images/PostProduzione_colori.jpeg","images/PP Large.jpeg","images/image-e47eb326-529f-457b-b2d5-b0fa9c556dbe.png","images/Post Prozuzione_8.jpeg","images/Post Produzione_4 Large.jpeg"],
     },
-    8: {
+    9: {
       title: "OFN Film Festival ",
       description: "Photoshoot and Layout for Instagram.",
       images: ["images/1ofn Large.jpeg","images/2ofn Large.jpeg","images/3ofn Large.jpeg","images/4ofn Large.jpeg","images/5ofn Large.jpeg","images/6ofn Large.jpeg"]
-    },
-    9: {
-      title: "Grove Website and Branding",
-      description: "Grove Dyslexia is a small business that provides diagnostic dyslexia assessments for children and adults. I redesigned the website using Figma and Squarespace with a focus on accessibility. It was also an aim to design something more reflective of the growth of the business, and the refinement of it’s services.",
-      images: ["images/Grovemockup1.jpeg","images/figma_grove.png","images/grove_3.png","images/grove_4.png","images/grove_vis.png","images/grove 2.png"]
     },
     10: {
       title: "Altrincham Dyslexia Website",
