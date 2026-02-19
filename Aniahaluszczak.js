@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
 const projectDetails = {
   1: {
       title: "Grove Website and Branding",
-      description: "Grove Dyslexia is a small business that provides diagnostic dyslexia assessments for children and adults. I built the website with a focus on accessibility. I designed something more reflective of the business's growth and the refinement of its services. I initiated the ideas in Figma and built using HTML, CSS, and JS as well as Formspree. One key feature was the coloured overlay button, which reduces visual stress on the screen, hugley beneficial for some users.",
+      description: "Grove Dyslexia is a small business that provides diagnostic dyslexia assessments for children and adults. I built the website with a focus on accessibility. I designed something more reflective of the business's growth and the refinement of its services. I initiated the ideas in Figma and built using HTML, CSS, and JS as well as Formspree. One key feature was the coloured overlay button, which reduces visual stress on the screen, hugely beneficial for some users.",
       images: ["images/grove_3.png","images/grove_4.png","images/grove_vis.png","images/grove_5.png","images/grove 2.png"]
     }, 
   
@@ -23,7 +23,7 @@ const projectDetails = {
       title: "Simbioze 2.0: Riga exhibition", 
       description: "Simbioze 2.0 was an outdoor plein air held in July 2025, then exhibited in Riga in November 2025. The poster was featured in two publications, and this event featured over 50 artworks, including performances and fashion pieces. This shows the process of the exhibition poster design; combining printmaking featuring natural elements with art from city streets. Inspired by the idea of a portal, as well as the circularity in art and nature. Check the links to read about the Exhibition. ",
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
-      images: ["images/veldze_mockup.jpeg","images/veldze poster.jpg","images/EXP-ezgif.com-optimize.gif","images/-93.jpeg","images/745098A1-5DCF-4320-82A7-DC2EC9429BC0.jpeg","images/draft1.jpeg","images/Envelope Large.jpeg"],
+      images: ["images/veldze_mockup.jpeg","images/veldze poster.jpg","images/EXP-ezgif.com-optimize.gif","images/-93.jpeg","images/745098A1-5DCF-4320-82A7-DC2EC9429BC0.jpeg","images/Envelope Large.jpeg"],
       videos: [
         { type: "instagram", url: "https://www.instagram.com/reel/DQj55KEDj06/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="},
         { type: "instagram", url: "https://www.instagram.com/p/DRK55m3iMeX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" }
@@ -31,7 +31,7 @@ const projectDetails = {
     },
     4: {
       title: "Simbioze 2.0: Skujene Plein air",
-      description: "Simbioze 2.0 was an outdoor plein air held in July 2025, The event featured 50 artists and was notably sponsored by The European Union, KKF Latvia, Red Bull and Bourzma studio, among others. This shows the process of the poster design, inspired by the idea of forging a path, and uses paper cut and collage. I designed the logo using an experimental process that references Kefir, the name of the studio. I have included some event photos for context.",
+      description: "Simbioze 2.0 was an outdoor plein air held in July 2025, The event featured 50 artists and was notably sponsored by The European Union, KKF Latvia, Red Bull and Bourzma studio, among others. This shows the process of the poster design, inspired by the idea of forging a path, and uses paper cut and collage. I designed the logo using an experimental process that references Kefir, the name of the studio.",
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
       images: ["images/PHOTO-2025-07-23-21-37-02.jpg","images/simbiozeposter.jpeg","images/IMG_8850.jpeg","images/OG Scan.jpeg","images/sposter b_w.png", "images/INVITES ENG 2.jpeg","images/Screenshot 2025-09-19 at 16.23.20.jpeg"],
       videos: [
