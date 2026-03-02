@@ -47,7 +47,7 @@ const projectDetails = {
     6: {
       title: "Interviews",
       description: "I recorded artist interviews about their work and process for promotion of workshops. The videos below feature Pernilla Weinholz, Fashion designer and Lisette Ros, Performance artist.",
-      images: ["images/IMG_6382-2.jpeg","images/IMG_6379-2.jpeg","images/fnl12 .jpeg","images/IMG_6417 .jpeg","images/cuesty2-ezgif.com-resize.gif","images/l insta6 .jpeg"],
+      images: ["images/IMG_6379-2.jpeg","images/fnl12 .jpeg","images/IMG_6417 .jpeg","images/cuesty2-ezgif.com-resize.gif","images/l insta6 .jpeg"],
       videos: [
         { type: "instagram", url: "https://www.instagram.com/reel/DJMli9iCWDe/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ=="},
         { type: "instagram", url: "https://www.instagram.com/p/DKKmLn7oF58/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==" }
