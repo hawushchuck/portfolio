@@ -7,13 +7,13 @@ document.addEventListener("DOMContentLoaded", () => {
 const projectDetails = {
   1: {
       title: "Grove Website and Branding",
-      description: "Grove Dyslexia is a small business that provides diagnostic dyslexia assessments for children and adults. I built the website with a focus on accessibility. I designed something more reflective of the business's growth and the refinement of its services. I initiated the ideas in Figma and built using HTML, CSS, and JS as well as Formspree. One key feature was the coloured overlay button, which reduces visual stress on the screen, hugely beneficial for some users.",
+      description: "Grove Dyslexia is a small business that provides diagnostic dyslexia assessments for children and adults. I built the website with a focus on accessibility. I initiated the ideas of a clean layout with a limited pallete in Figma, inspired by my knowledge of standards for readability. I used Inclisive Sans, a great open source font by Olivia King that is designed for readability. Built using HTML, CSS, and JS as well as Formspree. One key feature is the coloured overlay button, which reduces visual stress on the screen, hugely beneficial for some users. Users noted the improvments in the site, which into translated to more dyslexia assessments.",
       images: ["images/grove_3.png","images/grove_4.png","images/grove_vis.png","images/grove_5.png",]
     }, 
   
   2: {
       title: "Simbioze 2.0: Movie poster", 
-      description: "A film poster for a documentary about an art event. I made this using my photography and scans of medical documents, inspired by the story of ambition and sacrifice in the film, as well as the softness of art and nature. The film is currently being submitted to festivals.",
+      description: "A film poster for a documentary about an art event. I made this using my photography and scans of the directors medical documents, inspired by the story of ambition and sacrifice in the film, as well as the softness of art and nature. The film is currently being submitted to festivals.",
       images: ["images/movie poster Large.jpeg","images/lungs.jpeg","images/landscape.jpg"],
       videos: [
         { type: "instagram", url: "https://www.instagram.com/reel/DQhG3iQiEg2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="}
@@ -21,7 +21,7 @@ const projectDetails = {
     },
     3: {
       title: "Simbioze 2.0: Riga exhibition", 
-      description: "Simbioze 2.0 was an outdoor plein air held in July 2025, then exhibited in Riga in November 2025. The poster was featured in two publications, and this event featured over 50 artworks, including performances and fashion pieces. This shows the process of the exhibition poster design; combining printmaking featuring natural elements with art from city streets. Inspired by the idea of a portal, as well as the circularity in art and nature. Check the links to read about the Exhibition. ",
+      description: "Simbioze 2.0 was an outdoor plein air held in July 2025, then exhibited in Riga in November 2025. The poster was featured in two publications, and this event featured over 50 artworks, including performances and fashion pieces. This shows the process of the exhibition poster design; combining collograph printmaking featuring natural elements with art from city streets. Inspired by the idea of a portal, as well as the circularity in art and nature. Check the links to read about the Exhibition. ",
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
       images: ["images/veldze_mockup.jpeg","images/-93.jpeg","images/745098A1-5DCF-4320-82A7-DC2EC9429BC0.jpeg","images/Envelope Large.jpeg"],
       videos: [
@@ -31,7 +31,7 @@ const projectDetails = {
     },
     4: {
       title: "Simbioze 2.0: Skujene Plein air",
-      description: "Simbioze 2.0 was an outdoor plein air held in July 2025. The event featured 50 artists and was notably sponsored by the European Union, KKF Latvia, Red Bull and Bourzma studio, among others. This shows the process of the poster design, inspired by the idea of forging a path, and uses paper cut and collage. I designed the logo using an experimental process that references Kefir, the name of the studio.",
+      description: "Simbioze 2.0 was an outdoor plein air held in July 2025. The event featured 50 artists selected from 100 following an open call. This shows the process of the poster design, inspired by the idea of forging a path, and uses paper cut and collage. I designed the logo using an experimental process that references Kefir, the name of the studio.",
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
       images: ["images/PHOTO-2025-07-23-21-37-02.jpg","images/simbiozeposter.jpeg","images/IMG_8850.jpeg","images/OG Scan.jpeg","images/sposter b_w.png", "images/INVITES ENG 2.jpeg","images/Screenshot 2025-09-19 at 16.23.20.jpeg"],
       videos: [
@@ -41,12 +41,12 @@ const projectDetails = {
     },
     5: {
       title: "Village general store website WIP",
-      description: "Ongoing Figma prototype of a Shopify website for the Village general store. Features a video banner, Tab style menu, Hover labels of photos, an intergrated shop and a scrolling slideshow. Please NOTE* The copy is not final.",
+      description: "Ongoing Figma prototype of a Shopify website for the Village general store. Features a video banner, Tab style menu, Hover labels of photos, an intergrated shop and a scrolling slideshow. Please note the copy is not final.",
       images: ["images/villagehome1.png","images/villagehome2.png","images/villagehome3.png","images/villagehome4.png","images/villagehome5.png","images/villagehome6.png"],
     },
     6: {
       title: "Interviews",
-      description: "I recorded artist interviews about their work and process for promotion of workshops. The videos below feature Pernilla Weinholz, Fashion designer and Lisette Ros, Performance artist.",
+      description: "I recorded and edited artist interviews about their work and process for promotion of workshops. The videos below feature Pernilla Weinholz, Fashion designer and Lisette Ros, Performance artist.",
       images: ["images/IMG_6379-2.jpeg","images/fnl12 .jpeg","images/IMG_6417 .jpeg","images/cuesty2-ezgif.com-resize.gif","images/l insta6 .jpeg"],
       videos: [
         { type: "instagram", url: "https://www.instagram.com/reel/DJMli9iCWDe/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ=="},
@@ -55,7 +55,7 @@ const projectDetails = {
     },
     7: {
       title: "British Business Bank Graphic Design",
-      description: "During my internship at British Business Bank (a government-funded bank), I took on several projects around making finance more accessible to a range of audiences using graphic, illustration and motion design skills",
+      description: "During my internship at British Business Bank (a government-funded bank), I took on several projects around making finance more accessible to a range of audiences using graphic, illustration and motion design. For the Start Up loans Ambassadors design - the insight was 'confetti' ,chosen from 3 options, it features lightbeams celebrating the quotes and images.",
       images: ["images/SBET MOCKUP Large.png","images/Icons for the intranet bbb 08045-08068 Large.jpeg","images/v7pngs-02 Large.jpeg","images/v7pngs-05 Large.jpeg","images/SUL Ambassadors colourways 24_25 Large.jpeg","images/external 16-9_BBB 08520 Woof The Yorkshire Dog Shop Large.jpeg"],
       videos: [
         { type: "youtube", url: "https://youtube.com/shorts/j_IWuJWzhw4?feature=share" }
