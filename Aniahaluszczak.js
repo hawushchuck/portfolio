@@ -40,8 +40,8 @@ const projectDetails = {
         ]
     },
     5: {
-      title: "Village general store - Website WIP",
-      description: "Work in progress Figma design for the Village general store coffee, bagel, clothing and homeware store.",
+      title: "Village general store website WIP",
+      description: "Ongoing Figma design for the Village general store coffee, bagel, clothing and homeware store.",
       images: ["images/villagehome1.png","images/villagehome2.png","images/villagehome3.png","images/villagehome4.png","images/villagehome5.png","images/villagehome6.png"],
     },
     6: {
