@@ -40,12 +40,9 @@ const projectDetails = {
         ]
     },
     5: {
-      title: "Open Call",
-      description: "I designed an Open Call poster for Simbioze 2.0, an outdoor plein air event held in July 2025 in Skujene, Latvia. I created an animation to increase engagement on Instagram stories. We received over 100 applications in 1 month of running the advert, and were able to use the responses to tailor workshops and offer initial advice.",
-      images: ["images/2-3 Large.jpeg", "images/open call final Large.jpeg","images/Sequence01-ezgif.com-resize.gif"],
-       videos: [
-        { type: "instagram", url: "https://www.instagram.com/p/DJR3RoRieRY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" }
-        ]
+      title: "Village general store - Website WIP",
+      description: "Work in progress Figma design for the Village general store coffee, bagel, clothing and homeware store.",
+      images: ["images/villagehome1.png","images/villagehome2.png","images/villagehome3.png","images/villagehome4.png","images/villagehome5.png","images/villagehome6.png"],
     },
     6: {
       title: "Interviews",
