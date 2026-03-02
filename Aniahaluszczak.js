@@ -41,7 +41,7 @@ const projectDetails = {
     },
     5: {
       title: "Village general store website WIP",
-      description: "Ongoing Figma prototype of a Shopify website for the Village general store. Features a video banner, Tab style menu, Hover labels of photos intergrated shop and scrollong slideshow. ",
+      description: "Ongoing Figma prototype of a Shopify website for the Village general store. Features a video banner, Tab style menu, Hover labels of photos, an intergrated shop and a scrolling slideshow. ",
       images: ["images/villagehome1.png","images/villagehome2.png","images/villagehome3.png","images/villagehome4.png","images/villagehome5.png","images/villagehome6.png"],
     },
     6: {
