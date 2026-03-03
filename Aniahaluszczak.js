@@ -63,14 +63,14 @@ const projectDetails = {
     },
     8: {
       title: "Post Produzione",
-      description: "Postproduzione is an Italian podcast that discusses visual art through a youthful, contemporary lens. This shows the final design in context and some initial idea development.",
+      description: "Postproduzione is an Italian podcast that discusses visual art through a youthful, contemporary lens. This shows the final design in context and some initial idea development. 'Ania created the cover artwork for my podcast Postproduzione on Spotify and was incredibly helpful throughout the whole process. She provided several font and color palette options that perfectly matched my taste. The podcast has a casual, youthful tone, and Ania did a great job capturing the exact mood the cover needed to convey, making the genre of the podcast immediately clear at a glance!'",
       link: "https://open.spotify.com/episode/4Z0nLIKZqIJgT2xazTw3QO?si=e413eabe7aa7450e",
       images: ["images/PostProduzione_colori.jpeg","images/PP Large.jpeg","images/image-e47eb326-529f-457b-b2d5-b0fa9c556dbe.png","images/Post Prozuzione_8.jpeg","images/Post Produzione_4 Large.jpeg"],
     },
     9: {
       title: "Altrincham Dyslexia Website",
       link: "https://altrinchamdyslexiasupport.co.uk/",
-      description: "Altrincham Dyslexia provides services and assessments for individuals with dyslexia around the greater Manchester area. I designed the website.",
+      description: "Altrincham Dyslexia provides services and assessments for individuals with dyslexia around the greater Manchester area. I designed the website using wordpress. Julia wanted a simple page that made it far easier to contact her.",
       images: ["images/Julia_mockup 1 Large.png","images/Screenshot 2025-10-05 at 15.03.56.png","images/Screenshot 2025-10-05 at 15.04.02.jpeg","images/Screenshot 2025-10-05 at 15.04.09.png"]
     },
      10: {
