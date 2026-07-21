@@ -6,11 +6,20 @@ document.addEventListener("DOMContentLoaded", () => {
   // Data for each project
 const projectDetails = {
   1: {
+      title: "Shipley College Events and Communications",
+      description: "Shipley College is an FE College specialising in vocational and Foundation Learning courses. My Role was to organise Events from Start to finish, create visual communications and outreach in person and online. ",
+      images: ["images/creative industries showcase invites.png","images/health social ads 1200X628.png"],
+      videos: [
+        { type: "youtube", url: "https://youtube.com/shorts/VtWohuibxXs?feature=share" }
+        { type: "youtube", url: "https://youtu.be/7tcSSfYMcEI" } 
+        ]
+    }, 
+  2: {
       title: "Grove Website and Branding",
       description: "Grove Dyslexia is a small business that provides diagnostic dyslexia assessments for children and adults. I built the website with a focus on accessibility. I initiated the idea of a clean layout with a limited palette in Figma, inspired by my knowledge of standards for readability. I used Inclusive Sans, a great open-source font by Olivia King that is designed for readability. Built using HTML, CSS, and JS as well as Formspree. One key feature is the coloured overlay button, which reduces visual stress on the screen, hugely beneficial for some users. Users noted the improvements in the site, which translated to more dyslexia assessments.",
       images: ["images/grove_3.png","images/grove_4.png","images/grove_vis.png","images/grove_5.png",]
     }, 
-  2: {
+  3: {
       title: "Simbioze 2.0: Skujene Plein air",
       description: "Simbioze 2.0 was an outdoor plein air held in July 2025. The event featured 50 artists selected from 100 following an open call. This shows the process of the poster design, inspired by the idea of forging a path, and uses paper cut and collage. I designed the logo using an experimental process that references Kefir, the name of the studio.",
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
@@ -19,12 +28,12 @@ const projectDetails = {
         { type: "instagram", url: "https://www.instagram.com/p/DOtP1CQCHnE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" } 
         ]
     },
-   3: {
+   4: {
       title: "Village General Store website WIP",
       description: "Ongoing Figma prototype of a Shopify website for the Village General Store. Features a video banner, Tab-style menu, Hover labels of photos, an integrated shop and a scrolling slideshow. Please note the copy is not final.",
       images: ["images/villagehome1.png","images/villagehome2.png","images/villagehome3.png","images/villagehome5.png","images/villagehome6.png"],
     },
-    4: {
+    5: {
       title: "British Business Bank Graphic Design",
       description: "During my internship at British Business Bank (a government-funded bank), I took on several projects around making finance more accessible to a range of audiences using graphic, illustration and motion design. For the Start Up loans Ambassadors design - the insight was 'confetti' ,chosen from 3 options, it features lightbeams celebrating the quotes and images.",
       images: ["images/SBET MOCKUP Large.png","images/Icons for the intranet bbb 08045-08068 Large.jpeg","images/v7pngs-02 Large.jpeg","images/v7pngs-05 Large.jpeg","images/SUL Ambassadors colourways 24_25 Large.jpeg","images/external 16-9_BBB 08520 Woof The Yorkshire Dog Shop Large.jpeg"],
@@ -32,7 +41,7 @@ const projectDetails = {
         { type: "youtube", url: "https://youtube.com/shorts/j_IWuJWzhw4?feature=share" }
       ]
     },
-    5: {
+    6: {
       title: "ESE London",
       description: "ESE is a private business school in London and across Europe. I designed digital brochures, edited interviews, photos and other media for the school.",
       images: ["images/ESEmockup.png","images/ese insta mockup.png","images/ese insta mockup2.png","images/XMAS_EVENTBRITE.jpeg"]
