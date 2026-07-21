@@ -17,7 +17,7 @@ const projectDetails = {
   2: {
       title: "Grove Website and Branding",
       description: "Grove Dyslexia is a small business that provides diagnostic dyslexia assessments for children and adults. I built the website with a focus on accessibility. I initiated the idea of a clean layout with a limited palette in Figma, inspired by my knowledge of standards for readability. I used Inclusive Sans, a great open-source font by Olivia King that is designed for readability. Built using HTML, CSS, and JS as well as Formspree. One key feature is the coloured overlay button, which reduces visual stress on the screen, hugely beneficial for some users. Users noted the improvements in the site, which translated to more dyslexia assessments.",
-      images: ["images/grove_3.png","images/grove_4.png","images/grove_vis.png","images/grove_5.png",]
+      images: ["images/grove_3.png","images/grove_4.png","images/grove_vis.png","images/grove_5.png"],
     }, 
   3: {
       title: "Simbioze 2.0: Skujene Plein air",
@@ -35,7 +35,7 @@ const projectDetails = {
     },
     5: {
       title: "British Business Bank Graphic Design",
-      description: "During my internship at British Business Bank (a government-funded bank), I took on several projects around making finance more accessible to a range of audiences using graphic, illustration and motion design. For the Start Up loans Ambassadors design - the insight was 'confetti' ,chosen from 3 options, it features lightbeams celebrating the quotes and images.",
+      description: "During my internship at British Business Bank (a government-funded bank), I took on several projects around making finance more accessible to a range of audiences using graphic, illustration and motion design. For the Start Up loans Ambassadors design - the insight was 'confetti', chosen from 3 options, it features lightbeams celebrating the quotes and images.",
       images: ["images/SBET MOCKUP Large.png","images/Icons for the intranet bbb 08045-08068 Large.jpeg","images/v7pngs-02 Large.jpeg","images/v7pngs-05 Large.jpeg","images/SUL Ambassadors colourways 24_25 Large.jpeg","images/external 16-9_BBB 08520 Woof The Yorkshire Dog Shop Large.jpeg"],
       videos: [
         { type: "youtube", url: "https://youtube.com/shorts/j_IWuJWzhw4?feature=share" }
