@@ -23,7 +23,7 @@ const projectDetails = {
       title: "Simbioze 2.0: Skujene Plein air",
       description: "Simbioze 2.0 was an outdoor plein air held in July 2025. The event featured 50 artists selected from 100 following an open call. This shows the process of the poster design, inspired by the idea of forging a path, and uses paper cut and collage. I designed the logo using an experimental process that references Kefir, the name of the studio.",
       link: "https://satori.lv/article/skujene-tiks-atklata-brivdabas-laikmetigas-makslas-izstade-simbioze-20",
-      images: ["images/PHOTO-2025-07-23-21-37-02.jpg","images/simbiozeposter.jpeg","images/IMG_8850.jpeg","images/OG Scan.jpeg","images/sposter b_w.png", "images/INVITES ENG 2.jpeg","images/Screenshot 2025-09-19 at 16.23.20.jpeg"],
+      images: ["images/simbiozemockup.png","images/IMG_8850.jpeg","images/OG Scan.jpeg","images/sposter b_w.png", "images/INVITES ENG 2.jpeg","images/Screenshot 2025-09-19 at 16.23.20.jpeg"],
       videos: [
         { type: "instagram", url: "https://www.instagram.com/p/DOtP1CQCHnE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" } 
         ]
