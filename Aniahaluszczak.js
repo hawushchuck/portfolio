@@ -10,7 +10,6 @@ const projectDetails = {
       description: "Shipley College is an FE College specialising in vocational and Foundation Learning courses. My Role is to organise events from Start to finish, create visual communications and outreach in person and online. Below is a video I edited and animated",
       images: ["images/creative industries showcase invites.png","images/health social ads 1200X628.png"],
       videos: [
-        { type: "youtube", url: "https://youtube.com/shorts/VtWohuibxXs?feature=share" },
         { type: "youtube", url: "https://youtu.be/7tcSSfYMcEI" } 
         ]
     }, 
