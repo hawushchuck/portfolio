@@ -29,9 +29,9 @@ const projectDetails = {
         ]
     },
    4: {
-      title: "Village General Store website WIP",
-      description: "Ongoing Figma prototype of a Shopify website for the Village General Store. Features a video banner, Tab-style menu, Hover labels of photos, an integrated shop and a scrolling slideshow. Please note the copy is not final.",
-      images: ["images/villagehome1.png","images/villagehome2.png","images/villagehome3.png","images/villagehome5.png","images/villagehome6.png"],
+      title: "Thursday After Six",
+      description: "Logo design for the art club - Thursday after Six. See the transition from concept to final ideas and design.",
+      images: ["images/ta6_Page_1.jpeg","images/ta6_Page_2.jpeg","images/ta6_Page_3.jpeg","images/ta6_Page_4.jpeg","images/ta6 Large.jpeg","images/ta6_Square.jpeg"],
     },
     5: {
       title: "British Business Bank Graphic Design",
