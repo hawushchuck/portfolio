@@ -12,7 +12,7 @@ font-family: "Lexend", sans-serif;
 .hero {
   background: #ffffff;
   color: rgb(52, 42, 59);
-  text-align: center;
+  text-align:left;
 
   /* Fixed header height = prevents jumping */
   height: 150px;
