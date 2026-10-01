@@ -40,11 +40,6 @@ const projectDetails = {
         { type: "youtube", url: "https://youtube.com/shorts/j_IWuJWzhw4?feature=share" }
       ]
     },
-    6: {
-      title: "ESE London",
-      description: "ESE is a private business school in London and across Europe. I designed digital brochures, edited interviews, photos and other media for the school.",
-      images: ["images/ESEmockup.png","images/ese insta mockup.png","images/ese insta mockup2.png","images/XMAS_EVENTBRITE.jpeg"]
-    },
   };
   
   // ---- VIDEO EMBED FUNCTION ----
