@@ -17,7 +17,7 @@ font-family: "Lexend", sans-serif;
   /* Fixed header height = prevents jumping */
   height: 150px;
   box-sizing: border-box;
-  padding: .3 rem;
+  padding: .6 rem;
 
   display: flex;
   align-items: center;
