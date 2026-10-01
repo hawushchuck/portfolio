@@ -7,25 +7,32 @@ font-family: "Lexend", sans-serif;
 
 /* HERO */
 
-/* Centered text block */
-.hero-text {
-  max-width: 600px;
-  margin: 0 auto;
-}
+/* HERO */
 
 .hero {
   background: #ffffff;
   color: rgb(52, 42, 59);
   text-align: center;
-  padding: 2rem 2rem;
-  transition: padding 0.3s ease;
-  position: relative;
-}
 
-.hero {
+  /* Fixed header height = prevents jumping */
+  height: 150px;
+  box-sizing: border-box;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
   position: sticky;
   top: 0;
   z-index: 500;
+
+  transition: height 0.3s ease;
+}
+
+/* Centered text block */
+.hero-text {
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 .hero h1 {
@@ -35,12 +42,15 @@ font-family: "Lexend", sans-serif;
 }
 
 .hero p {
+  margin: 0.3rem 0;
   transition: font-size 0.3s ease, margin 0.3s ease;
 }
 
+
 /* SHRUNK HERO */
+
 .hero.shrink {
-  padding: 1.2rem 2rem;
+  height: 80px;
 }
 
 .hero.shrink h1 {
@@ -49,26 +59,21 @@ font-family: "Lexend", sans-serif;
 
 .hero.shrink p {
   font-size: 0.8rem;
-  margin: 0.2rem 0;
+  margin: 0.1rem 0;
 }
+
 
 /* Fixed icons in top-right corner */
+
 .header-icons {
   position: absolute;
-  top: 2.5rem;
+  top: 50%;
   right: 4rem;
+
+  transform: translateY(-50%);
+
   display: flex;
   gap: 1rem;
-}
-
-.icon-btn {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  background: none;
-  border: none;
-  cursor: pointer;
-  transition: transform 0.2s ease, opacity 0.2s ease;
 }
 
 .icon-btn img {
