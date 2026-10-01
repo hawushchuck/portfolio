@@ -52,6 +52,7 @@ font-family: "Lexend", sans-serif;
 
 .hero.shrink {
   height: 80px;
+  padding: 0.4 rem;
 }
 
 .hero.shrink h1 {
