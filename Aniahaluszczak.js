@@ -3,6 +3,16 @@ document.addEventListener("DOMContentLoaded", () => {
   const modalBody = document.getElementById("modal-body");
   const closeBtn = document.querySelector(".close");
 
+  window.addEventListener("scroll", () => {
+  const hero = document.querySelector(".hero");
+
+  if (window.scrollY > 100) {
+    hero.classList.add("shrink");
+  } else {
+    hero.classList.remove("shrink");
+  }
+});
+  
   // Data for each project
 const projectDetails = {
   1: {
