@@ -17,7 +17,7 @@ font-family: "Lexend", sans-serif;
   /* Fixed header height = prevents jumping */
   height: 150px;
   box-sizing: border-box;
-  padding: .6 rem;
+  padding: .4 rem;
 
   display: flex;
   align-items: center;
@@ -52,7 +52,6 @@ font-family: "Lexend", sans-serif;
 
 .hero.shrink {
   height: 80px;
-  padding: 0.6rem;
 }
 
 .hero.shrink h1 {
