@@ -22,6 +22,12 @@ font-family: "Lexend", sans-serif;
   position: relative;
 }
 
+.hero {
+  position: sticky;
+  top: 0;
+  z-index: 500;
+}
+
 .hero h1 {
   font-size: 2.5rem;
   margin: 0;
