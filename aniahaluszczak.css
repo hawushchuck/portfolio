@@ -17,7 +17,7 @@ font-family: "Lexend", sans-serif;
   background: #ffffff;
   color: rgb(52, 42, 59);
   text-align: center;
-  padding: 4rem 2rem;
+  padding: 2rem 2rem;
   transition: padding 0.3s ease;
   position: relative;
 }
